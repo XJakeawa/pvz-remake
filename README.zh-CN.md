@@ -1,6 +1,6 @@
 # PvZ Remake
 
-这是一个使用 Cocos Creator 3.8.8 和 TypeScript 制作的 Plants vs. Zombies 1 重制项目。
+这是一个使用 Cocos Creator 3.8.8 和 TypeScript 制作的 Plants vs. Zombies 重制项目。
 
 [English README](README.md)
 
